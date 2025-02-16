@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+Sumaslv26b
 
 # Editor directories and files
 .vscode/*
