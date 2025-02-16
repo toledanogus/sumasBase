@@ -29,7 +29,7 @@ export const BienvenidaPage = () => {
 
   return (
     <>
-      <h1>¡Bienvenido!</h1>
+      <h1>¡Bienvenidos!</h1>
       <fieldset>
         <p>Comencemos escribiendo tu nombre de usuario:</p>
         <input
